@@ -1,5 +1,5 @@
 var _WM_APP_PROPERTIES = {
-  "activeTheme" : "neon",
+  "activeTheme" : "material",
   "dateFormat" : "",
   "defaultLanguage" : "en",
   "displayName" : "TestProj_16Aug",

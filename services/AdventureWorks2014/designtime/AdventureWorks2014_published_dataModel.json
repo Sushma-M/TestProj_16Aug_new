@@ -1872,7 +1872,7 @@
         "generatorValue" : null,
         "schemaName" : null
       },
-      "name" : "PRIMARY",
+      "name" : null,
       "virtual" : false
     },
     "relations" : [ ],
@@ -2187,7 +2187,7 @@
         "generatorValue" : null,
         "schemaName" : null
       },
-      "name" : "PRIMARY",
+      "name" : null,
       "virtual" : false
     },
     "relations" : [ ],
@@ -2531,7 +2531,7 @@
         "generatorValue" : null,
         "schemaName" : null
       },
-      "name" : "PRIMARY",
+      "name" : null,
       "virtual" : false
     },
     "relations" : [ ],
@@ -3020,7 +3020,7 @@
         "generatorValue" : null,
         "schemaName" : null
       },
-      "name" : "PRIMARY",
+      "name" : null,
       "virtual" : false
     },
     "relations" : [ ],
@@ -3422,7 +3422,7 @@
         "generatorValue" : null,
         "schemaName" : null
       },
-      "name" : "PRIMARY",
+      "name" : null,
       "virtual" : false
     },
     "relations" : [ ],
@@ -3766,7 +3766,7 @@
         "generatorValue" : null,
         "schemaName" : null
       },
-      "name" : "PRIMARY",
+      "name" : null,
       "virtual" : false
     },
     "relations" : [ ],
